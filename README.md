@@ -1,5 +1,6 @@
 # Prediction-Model-of-Twitter-Meme-Popularity-
 Prediction Model of Twitter Meme Popularity 
+Saray Camargo. September, 2020. 
 
 Abstract
 
