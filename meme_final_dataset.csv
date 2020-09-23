@@ -1,0 +1,506 @@
+name,type,origin_year,views,tags,days_since_added,num_early_adopters,num_early_tweets,avg_time_duration ,cv_time_duration ,daily_average_views,class
+"""And Then The Murders Began""",hashtag,2017,42460,"twitter, literature",1127,45,50,4374,7.07,37.68,medium-high
+"""Forced To Do Muslim Prayer""",conspiracy theory,2017,48297,"muslim, weather, donald trump, conservative, twitter, conspiracy theory, tornado, elementary school, tornado drill",1090,49,50,86497,7.07,44.31,medium-high
+"""Gay Culture Is""",catchphrase,2016,6907,"lgbtq, twitter, gay culture, relationships, homosexual, gay",932,49,50,6521,7.07,7.41,low
+"""If My Girl Drowning"" ",copypasta,2016,10941,"emoji, twitter, drowning",985,46,50,19171,7.07,11.11,medium-low
+"""-Ito"" Suffix",axiom,2017,4227,"spanish, ito, dorito, danny devito, mosquito, @uniquedude2, lordlasagna, hairdogan, estupen1",40,24,24,187623,4.9,105.68,high
+"""Milk and Honey"" ",parody,2017,35426,"milk and honey, poetry, rupi kaur, parody, spoof",820,49,50,491,7.09,43.2,medium-high
+"""New York"" on a Bed",reaction,2015,54579,"flavor of love, flava flave, black twitter, new york, tiffany pollard, bed, sitting, not having it, reaction image, mfw",1449,43,50,44390,7.07,37.67,medium-high
+"""o i am laffin""",slang,2014,20179,"lorde, 4chan, twitter, /mu/, meme",1128,24,32,161762,5.66,17.89,medium-low
+#AlohaGang,hashtag,2019,11328,"tulsi gabbard, andrew yang, yang gang, democrats, candidate, aloha, hawaii, gang, jackposobiec, orbgang, surfgang, cynthiaschnepp, yang2020_gbr, j212_87, whatthefhappen2, blackskyrim",50,50,50,30195,7.07,226.56,high
+#AskTrump,campaign,2015,6441,"asktrump, donald trump, q&a, twitter, hashtag, political campaign, 2016 us presidential election",1386,29,50,33873,7.07,4.65,low
+#ATLOrgy,hashtag,2017,32071,"atlanta, orgy, sex",1113,47,50,36439,7.07,28.81,medium-high
+#BernieBruh,hashtag,2020,9566,"bernie sanders, people of color, black lives matter, bernie bros, socialism, medicare for all, 2020 presidential election, team_chance, benjamin dixon",37,22,50,43681,7.07,258.54,high
+#BlackStormtrooper,campaign,2014,69337,"star wars, trailer, racism, black stormtrooper",1112,3,3,924173,2,62.35,medium-high
+#BoycottBeyonce,controversy,2016,15433,"music, celebrity, race, black lives matter, controversy, super bowl, formation, beyonce knowles",1512,37,50,82961,7.07,10.21,medium-low
+#BoycottStarWarsVII,hoax,2015,55793,"star wars, 4chan, racism, hoax, hashtag",1418,4,4,155933,2.12,39.35,medium-high
+#BringBackOurGirls,campaign,2014,12924,"protest, campaign, terrorist, nigeria, abduction, sign holding, boko haram, terrorism",1489,28,50,267,7.1,8.68,low
+#burnmyMAGAhat,hashtag,2017,16160,"maga, trump, twitter, hashtag, trump supporters, hat",935,22,50,43681,7.07,17.28,medium-low
+#CoronavirusChallenge,hashtag,2020,2035,"covid-19, health, science, cdc, coronavirus, sick, @vainconsumer, @laultimabirra",1,32,50,678,7.08,2035,high
+#DadQuotes,hashtag,2019,623,"dad, dad jokes, parenting, jimmy fallon, jokes, humor",299,46,50,24001,7.07,2.08,low
+#DeflateGate,controversy,2015,41970,"controversy, football, nfl, investigation, tom brady, national football league, new england patriots, indianapolis colts, sports",1474,47,50,260,7.1,28.47,medium-high
+#DisneyAdaptPercyJackson,hashtag,2019,142,"hashtag, disney, percy jackson, rick riordan, reboot",47,27,50,8331,7.07,3.02,low
+#DominateMeIn4Words,hashtag,2020,6372,"twitter, sex, food, hashtag, game",43,42,50,95230,7.07,148.19,high
+#DumpStarWars,hashtag,2016,63676,"hashtag, star wars, trump",1204,25,50,17627,7.07,52.89,medium-high
+#Ebowla,hashtag,2014,18525,"virus, hashtag, ebola",1992,47,50,81737,7.07,9.3,low
+#EndFathersDay,hoax,2014,59836,"hashtag, sexism, feminism, fathers day, 4chan, prank, hoax",1112,4,21,2241677,4.59,53.81,medium-high
+#ExplainAFilmPlotBadly,hashtag,2014,19357,"movies, hashtags, twitter, explain a movie plot badly",1083,42,50,18357,7.07,17.87,medium-low
+#HereWeAre,hashtag,2017,4719,"here we are, twitter, feminism",764,46,50,6158,7.07,6.18,low
+#HeterosexualPrideDay,controversy,2015,29076,"hashtag, lgbt, sexual orientation, politics, outrage, controversy",1217,20,25,202667,5,23.89,medium-high
+#HobbyLobbyChallenge,participatory media,2018,14966,"hobby lobby, dollar tree, photography",781,50,50,7481,7.07,19.16,medium-low
+#HowToConfuseAMillennial,hashtag,2016,31452,"millennial, hashtag, trend, boomer, generation",1309,4,5,907817,2.31,24.03,medium-high
+#ImWithKer,hashtag,2016,21930,"hashtag, campaign, activism, kermit the frog, pepe",1281,31,50,55954,7.07,17.12,medium-low
+#KanyeAnalPlaylist,hashtag,2016,12337,"kanye west, wiz khalifa, amber rose, anal play, sexual act, sex act, butt, butthole, music",1428,6,7,687513,2.68,8.64,low
+#MakeMineMilkshake,hashtag,2017,13418,"marvel comics, marvel, spider-man, women, feminism, twitter, controversy, milkshake, sexism",979,33,50,49104,7.07,13.71,medium-low
+#Metalgate,controversy,2014,61592,"controversy, twitter, metal, hashtag, gate, gamergate",1938,10,50,3785,7.07,31.78,medium-high
+#MeToo,hashtag,2017,91446,"twitter, sexual assault, sexual harassment, alyssa milano, me too hashtag, harvey weinstein, kevin spacey, sexaul harrasment fallout",826,42,50,6,8.19,110.71,high
+#MillennialAMovie,hashtag,2017,2307,"millennial, hashtag, twitter, game",894,42,50,87696,7.07,2.58,low
+#MyAgeInAPhrase,hashtag,2017,5994,"hashtag roundup, age, nostalgia",998,11,20,69549,4.48,6.01,low
+#NameAPenceMusical,hashtag,2016,11104,"hashtag, mike pence, hamilton, musicals, tweet",1233,42,50,87802,7.07,9.01,low
+#NationalSendANudeDay,hoax,2014,53101,"photograph, hashtag, prank, hoax, holiday, selfie",1419,32,50,43282,7.07,37.42,medium-high
+#NiggerNavy,hashtag,2017,80058,"yahoo, typo, twitter, black twitter",1187,50,50,30195,7.07,67.45,medium-high
+#NoConfederate,controversy,2017,12484,"game of thrones, hbo, television, race, civil war, confederate, racism, twitter",981,28,50,38066,7.07,12.73,medium-low
+#NotMyAbuela,hashtag,2015,8700,"hillary clinton, hispanics, latinos, votes, grandma, grandmother, chelsea clinton, bill clinton, hispandering, not my abuela, 2016 us presidential election, hashtag",1386,29,50,38066,7.07,6.28,low
+#NotOneMore,campaign,2014,12764,"twitter, shooting, guns, gun control, nra, hashtag campaign",2128,26,50,572,7.09,6,low
+#PoohSays,remix,2018,8054,"christopher robin, winnie the pooh",762,6,7,268948,2.68,10.57,medium-low
+#QuarantineAndChill,hashtag,2020,3109,"netflix and chill, #quarantineandchill, @itstanhimm, robertdg",21,41,50,142,7.12,148.05,high
+#QuestionTime Racist Rant Reaction,reaction,2020,2653,"question time, immigration, england, brexit, government, politics, ross mccafferty",9,43,50,104,7.14,294.78,high
+#RaceTogether,advertisement,2015,26695,"starbucks, marketing, race, racial relations, public relations, coffee, controversy",1112,26,50,79294,7.07,24.01,medium-high
+#RapedAtSpelman,controversy,2015,13004,"sexual assault, rape, twitter, university, college, controversy, allegations, confession",1427,15,16,259618,4.01,9.11,low
+#ReasonstoBeatYourGirlfriend,controversy,2011,6966,"event, hashtag, offensive, controversy, twitter",3102,35,50,74624,7.07,2.25,low
+#RedrawReigen,hashtag,2016,22521,"arataka reigen, fanart, mob psycho 100, anime, webcomic",1294,47,50,65703,7.07,17.4,medium-low
+#RioProblems,hashtag,2016,20244,"olympics, rio, 2016",1332,32,50,54787,7.07,15.2,medium-low
+#RIPRichardDawkins,hoax,2015,25372,"death hoax, hoax, twitter, hashtag, dawkins, celebrity",1854,42,50,92853,7.07,13.69,medium-low
+#ShowWolfATurtle,hashtag,2017,2972,"wolf blitzer, turtle, hashtag",1055,2,3,5515417,2,2.82,low
+#SkinFor1D,controversy,2014,48318,"controversy, twitter, british, marijuana, one direction",2140,16,50,8021,7.01,22.58,medium-high
+#StopPresidentBannon,hashtag,2017,22441,"steve bannon, donald trump, twitter, hashtag",1163,14,50,537,7.09,19.3,medium-low
+#TapperDirtFile,hashtag,2017,12008,"jake tapper, cnn, twitter, hashtag",1112,17,20,240720,4.48,10.8,medium-low
+#TawawaChallenge,participatory media,2016,71145,"japan, twitter, photo fad, selfie, tawawa on monday, south korea, facebook, instagram, deviantart, pixiv, hashtag",295,38,43,42006,6.56,241.17,high
+#TheThingAboutMen,hashtag,2020,3920,"men, misogyny, sexism, feminism, controversy, male, thingsinsixty, fivefortweeting, alioop326, martinjkeatings, the_iron_6iant, @mrracebannon, @zarrarsalahpti",40,3,3,708076,2,98,high
+#ThingsThatLeaveBritainReeling,hashtag,2017,11614,"london, british, england, biscuits, tea, terror, reeling, news, politics, hastags, twitter, may, things that leave britian reeling, 2017 london attack, london bridge, isis, last week tonigh, john oliver",1035,32,50,69954,7.07,11.22,medium-low
+#TogetherApart,hashtag,2020,6146,"camp out, indoor, children, parents, covid, coronavirus, quarantine, s’mores, @kimguilfoyle, @loisromano, @chrissyteigen",15,48,50,520,7.09,409.73,high
+#TransLooksLikeThis,hashtag,2019,5631,"transgender people, trans rights, lgbtq, human rights, queer",455,44,50,27863,7.07,12.38,medium-low
+#Trump2020ElectionSlogans,hashtag,2017,7315,"donald trump, republican party, election, mike pence, twitter, hashtag games, hashtag zoo",897,40,50,63299,7.07,8.15,low
+#TrumpRussia,conspiracy theory,2016,710,"russia, conspiracy",723,40,50,50,7.22,0.98,low
+#TweetFur,hashtag,2019,44667,"fan art, twitter, furry, bird, art",456,34,50,28344,7.07,97.95,high
+#UnfollowMcCain,campaign,2017,7294,"john mccain, twitter, senate tax bill, hashtag, hashtags, senator, unfollow, opposite effect, backfired",853,47,50,55678,7.07,8.55,low
+#UnwantedIvanka,parody,2019,20056,"trump, ivanka, g20, osaka, conversation, awkward, parham ghobadi, emmanuel macron, christine lagarde, imf",280,37,50,3712,7.07,71.63,high
+#WhereIsPutin,hashtag,2015,15030,"putin, photoshop, where is putin",1849,37,50,3712,7.07,8.13,low
+@CokeEsports,blog,2014,11688,"coca cola, esports, comic, cringe, parody",288,12,50,65219,7.07,40.58,medium-high
+@Wendys,company,2017,152759,"wendy's, corporate, twitter, fast food, roast, own",924,26,26,185897,5.1,165.32,high
+2014 Miss America Twitter Backlash,controversy,2013,130738,"reaction, controversy, twitter, racist, racism, social media, tirade, america",2212,49,50,149,7.12,59.1,medium-high
+21 Savage Supervillain,image macro,2017,4683,"rap, 21 savage, espn, twitter, hip hop, music, villains, batman, comic book",1013,7,7,128667,2.68,4.62,low
+24 Hours to Respond,snowclone,2019,633,"celebrity, chris brown, ashanti, twitter, talent",42,48,50,116,7.13,15.07,medium-low
+Absolute Unit,slang,2017,18343,"english, slang, obese, fat, large, portly, queen of england, morgan-hewitt, david roth",819,50,50,362,7.09,22.4,medium-high
+Airline Passenger Punching Reclined Seat,viral debate,2020,68413,"air travel, american airlines, passenger punching seat, reclining seats, travel etiquette, man punching woman's seat, twitter, viral video, viral debate",53,47,50,14834,7.07,1290.81,high
+All I Want To Do Is #MAGA,snowclone,2017,2766,"donald trump, tweet, maga, song lyrics, twitter",951,42,50,100410,7.07,2.91,low
+All These Games And You Decided to Play Me,exploitable,2013,3280,"popsicle, salty, salt",917,3,3,1020931,2,3.58,low
+Timeline Super Smash Brothers Memes,fan art,2019,20237,"nintendo, subspace 2, super smash bros., speculation, fan-theory, multiverse, alternate-dimension, future, subspace emissary, roboticobiltera, thedelosguy, thelostcroc, chase_doggie",174,50,50,1556,7.08,116.3,high
+Always Go For This / Only Villains Do That,exploitable,2017,75396,"anime, manga, boku no hero academia, all might, my hero academia, villhut, toshinori yagi, zela_kantal, mrmcpizza",236,50,50,125,7.13,319.47,high
+Amabie,fan art,2020,7968,"japan, yokai, twitter, pixiv, nico nico seiga, niconico, gegege no kitarō, @shigeokahide, @orochidou, @kitanoyoukaiten, @youmisedori",15,6,10,401564,3.18,531.2,high
+Angry Hurricane Harvey Cat,image macro,2017,20455,"cats, hurricane harvey, reaction images, la times, storms, water, swimming",945,4,4,369412,2.12,21.65,medium-high
+Anime Girl Hiding From a Terminator,exploitable,2019,19958,"id@lmaster, idolmaster, nono morikubu, anime girl, terminator, t-800, desk, office, robot, hiding, @harucide, quajek, 2018inanutshell",47,7,7,392433,2.68,424.64,high
+Antifa Supersoldiers,hoax,2017,21917,"twitter, krangtnelson, antifa",819,40,50,131741,7.07,26.76,medium-high
+Are You Sexually Active?,image macro,2015,30000,"image macro, stock photo, hospital, doctor",1183,50,50,7208,7.07,25.36,medium-high
+Arguing on the Internet,image macro,2017,3354,"n-word, controversy, keyboard, caps lock, argument, internet, heated",930,50,50,3753,7.07,3.61,low
+"Ariana Grande ""Bop It""",parody,2018,13669,"ariana grande, music, bop it, twist it, flip it, sweetner, pop music, pete davidson",425,8,8,607463,2.86,32.16,medium-high
+Ariana Grandeing,photoshop,2017,12023,"ariana grande, my everything, mcjesse, jesse mclaren, stool, parody, photography, pop music",903,40,50,54294,7.07,13.31,medium-low
+Armin Armout,parody,2013,8038,"attack on titan, armin, pun, name pun",592,6,50,79775,7.07,13.58,medium-low
+Arthur's Headphones,reaction,2016,12215,"arthur, headphones, binky, binky listens to, reaction",1015,3,3,524122,2,12.03,medium-low
+Asbury Park Football Club,hoax,2014,4423,"asbury park, football club, asbury park f.c., hoax, sports, soccer, football, asbury park fc, apfc, parody",1026,50,50,64837,7.07,4.31,low
+Azealia Banks / Lana Del Rey Feud,controversy,2018,1435,"azealia banks, lana del rey, kanye west, trump",545,49,50,428,7.09,2.63,low
+Bad Teacher,snowclone,2017,2387,"kpop, fandom, snowclone, twitter",818,49,50,282,7.1,2.92,low
+Barbz For Bernie,hashtag,2019,2262,"nicki minaj, bernie sanders, barb, stans, fans, nickvideos, @iiibeurgirl, @quart__z",5,17,24,107057,4.9,452.4,high
+Bat- (Prefix),snowclone,2018,3459,"phrasal template, batman, robin, television, word play",819,45,50,6,8.35,4.22,low
+Been Thinking About Life and Mortality Today,copypasta,2020,2505,"paul gosar, politics, coronavirus, twitter, the great battle, _cingraham, mjs_dc, mollyjongfast, bowtiepolitics, papapishu",28,41,50,69782,7.07,89.46,high
+Bees Are Dying at an Alarming Rate,catchphrase,2016,17807,"bees, dying, globally, twitter, super bowl, eli manning, peyton manning",1099,50,50,7204,7.07,16.2,medium-low
+Believe Challenge,hashtag,2020,719,"meek mill, positive, wholesome, progress, growth",53,50,50,195,7.11,13.57,medium-low
+Bella Thorne and Tana Mongeau ,controversy,2019,8534,"girl code, mod sun, fight, jake paul, couple, polyamorous, ex, jealousy, public, clout, moonlightlore",261,41,50,90226,7.07,32.7,medium-high
+Bernie Sanders' Clothes Chair,image macro,2020,4609,"bernie sanders, clothes chair, messy, 2020 democratic presidential primary, 2020 presidential election",32,47,50,62980,7.07,144.03,high
+Bernie Sanders in First Class,image macro,2019,6573,"bernie sanders, socialism, music, democratic presidential primary, plane, first class, @ccarrgop, libertyhangout, @virjuulablow, @tonybonesarelli, junkee, poetastrologers",35,48,50,93660,7.07,187.8,high
+Bernie Sanders Looking Up on the Phone,image macro,2020,1472,"bernie sanders, democratic presidential primaries, 2020 presidential election, politics, government, importedtejuino, srirachachau, aaronbahamondes",25,3,3,22392,2,58.88,medium-high
+Beyonce Always On Beat,remix,2015,20525,"beyoncealwaysonbeat, little einstein, migos, missy elliott, edit, vine, beyoncé",1112,20,21,199671,4.59,18.46,medium-low
+Beyonce's Assistant,participatory media,2019,3447,"apple, twitter, quiz, test, work, job",281,43,50,42330,7.07,12.27,medium-low
+Bike Is Short for Bichael,snowclone,2017,56928,"pun, mike, michael, me_irl, acronyms, acronym, abbreviations, jokes about abbreviations",824,50,50,27222,7.07,69.09,medium-high
+Black Air Force 1s,axiom,2019,9140,"shoes, nike, crime, black twitter, domthegoat5, loadingglokkz, ayyeechristian, chick-fil-a, stayhipp",173,49,50,6877,7.07,52.83,medium-high
+Blake Vapes,comedian,2014,5635,"vape, instagram, comedian, dubstep",1489,45,50,41639,7.07,3.78,low
+Bookface,social game,2012,5729,"bookface, books, sleeveface, library, libraries, photofad",1077,47,50,4054,7.07,5.32,low
+Boomer Remover,slang,2020,24681,"boomer, millenial, gen z, covid-19, coronavirus, @nurselietv, @shoe0nhead, @derarschloch, @oatmilkstanacct",6,49,50,1938,7.08,4113.5,high
+Boruto's Dad,catchphrase,2017,443320,"naruto, uzumaki, boruto, crunchyroll",855,50,50,6227,7.07,518.5,high
+Brainless Person,exploitable,2017,628,"japan, niewals, twitter, miiverse, niconico, nico nico seiga, pixiv",925,49,50,6643,7.07,0.68,low
+"Bria Badu's ""Natural Birth Control"" Tweet",viral debate,2019,4081,"papaya, neem, figs, pennroyal, condoms, herbal, remedies, harmful, rebecca watson",299,22,23,183916,4.8,13.65,medium-low
+Broke / Woke,snowclone,2016,32318,"stay woke, slang, woke, tired wired, shot chaster, canadanrx",198,49,50,98,7.15,163.22,high
+Bros Glad,catchphrase,2020,5298,"bros glad, hoes mad, projektmelody, catchphrase, king, @undercovergray, chaturbate, @desukirisu, @pfan010",47,50,50,3505,7.07,112.72,high
+Buff Cat,animal,2018,28976,"cat, muscular, thicc",642,37,50,405,7.09,45.13,medium-high
+Buffsuki,character,2017,26555,"fan art, doki doki literature club, buff riku, natsuki",824,48,50,15379,7.07,32.23,medium-high
+Bye Bye Man Poster Parodies,parody,2016,39486,"the bye bye man, movie, poster, photoshop, parody",1161,47,50,199,7.11,34.01,medium-high
+Cats Watching Cats,social game,2019,979,"cats, movies, feline, musicals, cats the movie, tom hooper, trailers, movie memes, twitter, jkbartleby, nfroome, queenlesli, patti murin",259,50,50,2250,7.07,3.78,low
+Caught Me Sleeping / Bae Caught Me Slippin,parody,2012,785923,"facebook, fake, photo fad, twitter, narcissism, selfie",399,50,50,3794,7.07,1969.73,high
+Centrist Dad,slang,2017,11981,"england, politics, jeremy corbyn, labour, centrism, neoliberalism, slang, pejorative, derogatory name, slur",852,42,50,5677,7.07,14.06,medium-low
+Chance The Rapper BET Awards Reaction,reaction,2017,5875,"chance the rapper, music, rap, reaction images, credit card, relief",1014,50,50,137,7.13,5.79,low
+Chevy Chase Illustration,pop culture reference,2020,1899,"chevy chase, bernie sampshires, new hampshire, 2020 democratic primary",55,47,50,1211,7.08,34.53,medium-high
+Chinese Virus,controversy,2020,8441,"coronavirus, covid-19, outbreak, president donald trump, republican, politics, government, charlie kirk, lois frankel, robert redfield, weijia jiang, kung-flu, spanish flu, west nile virus, zika, jabin botsford, #trumpnotes",15,47,50,32,7.3,562.73,high
+Christian Bale's Dick Cheney Bod,image macro,2017,2777,"christian bale, dark knight, movies, actor, twitter, dick cheney",874,47,50,257,7.1,3.18,low
+Ciao Ryan,character,2017,10228,"damn daniel, twitter, ryan, college",893,25,28,89911,5.3,11.45,medium-low
+Cigarette Cockroach,animal,2019,739,"dragging, roach, bug, spotted, smoking, nyc, trash, butt",169,14,14,136195,3.75,4.37,low
+CNN Doctor Holding In Sneeze,viral video,2020,1149,"dr. william schaffner, cough, coronavirus, interview, tv, eyes, erin burnett, cnn, @kuon_shin, @quantum_kobe, @cashmuny_36",6,47,50,1317,7.08,191.5,high
+CNN White House Press Briefing Sketch,image macro,2017,10163,"sean spicer, white house, donald trump, politics, news, cnn, press, media",1016,45,50,128,7.13,10,medium-low
+#FactsFirst ,advertisement,2017,9227,"apple, banana, cnn, hashtag, fake news",895,30,50,6791,7.07,10.31,medium-low
+Coming Out Of Quarantine,reaction,2020,17523,"leaving quarantine, emerging from quarantine, shelter-in-place, self-isolation, coronavirus lockdown, covid-19, meme, reaction, twitter, reddit, social media, shamedless96, adventure84, damaged bean brain, matty_95, jessimaepeluso, harrismayer",8,50,50,2086,7.08,2190.38,high
+Corn Cobbed,slang,2011,17276,"twitter, corn, owned, dril",964,43,44,58121,6.64,17.92,medium-low
+Coronavirus Vacation,,2020,6084,"flights, cheap, airplane, travel, travelling, millennials, @dijahsb, ~, @rowdybt, @jardintaylor, junkee",21,43,50,1326,7.08,289.71,high
+Covfefe,pop culture reference,2017,130590,"twitter, trump, typo, cofveve",1029,41,50,96,7.15,126.91,high
+Damn Daniel,catchphrase,2016,507723,"twitter, worldstar, remix, vans, white vans, back at it with the white vans, josh holz",774,50,50,355,7.09,655.97,high
+Dancing Hermione,viral video,2018,7715,"harry potter, hermione, kelsey ellison, pride, cosplay, fandom, noodlerella, hannahsnow",184,47,50,10706,7.07,41.93,medium-high
+"Dear Boys, Dress Like This",parody,2014,6751,"dress, men, twitter, copypasta, picture",767,11,12,176369,3.48,8.8,low
+Dear David,creepypasta,2017,50991,"adam ellis, twitter, creepy",845,45,50,424,7.09,60.34,medium-high
+"Dear North Korea, Let's Settle This Like Men",image macro,2017,10137,"super smash bros, nintendo, north korea, kim jong un, video games, twitter",966,48,50,3852,7.07,10.49,medium-low
+Describe Yourself in 3 Fictional Characters,social game,2016,376586,"twitter, meme, game, template",1094,11,11,108246,3.33,344.23,high
+divoC,catchphrase,2020,4692,"covid, coronavirus, backwards, what da fuck is going on, @bobbyshitposts, @liveshynediie, divock origi, @nufcflynn, @ravaskar, @thekop_com",20,39,50,2471,7.08,234.6,high
+Do You Have the Slightest Idea How Little That Narrows It Down?,image macro,2020,19515,"batman, batman beyond, villain, blight, glowing, radioactive, green, skeleton, narrows it down, terry mcginnis, @jaoaoaoaoao, runic7_, dr_tst, mrjokster, mini_knight, dndmemes",47,14,14,158166,3.75,415.21,high
+Donald Sterling Racism Controversy,controversy,2014,17116,"controversy, twitter, nba, l.a. clippers, donald sterling, jeremy gordon, snoop dog, magic johnson, lil wayne, basketball",840,44,50,29010,7.07,20.38,medium-low
+Donald Trump Jr.'s Email Tweet,controversy,2017,13004,"donald trump, president, russiagate, politics, twitter, emails, hillary clinton, putin",1000,48,50,154,7.12,13,medium-low
+Donald Trump's 4EVA Time Magazine Tweet,pop culture reference,2019,4235,"time, magazine, trumpism, outlasts, eeeeee, dictator, terms",288,46,50,12140,7.07,14.7,medium-low
+Donald Trump's Empty Chairs,image macro,2017,10196,"donald trump, chuck schumer, nancy pelosi, politics, cspan, empty chairs, lonely",859,5,5,338802,2.31,11.87,medium-low
+Donald Trump's Hollywood Star,exploitable,2017,37957,"donald trump, twitter, graffiti, vandalism, controversy, walk of fame",1009,3,3,423467,2,37.62,medium-high
+Donald Trump's Letter From Pickle,parody,2017,9421,"donald trump, parody, letter, sarah huckabee sanders, politics, child",985,46,50,418,7.09,9.56,low
+Donald Trump's Nero Fiddling Tweet,gaffe,2020,16365,"nero, burning, left, right, politics, emperor nero, dan scavino, @realdonaldtrump, @danscavino, @frankfigliuzzi1, @eugenegu, @paullidicul",26,50,50,3431,7.07,629.42,high
+"Donald Trump's Time ""Person of the Year"" Tweet",parody,2017,14774,"donald trump, time, person of the year, man of the year, politics, tweets",862,46,50,974,7.08,17.14,medium-low
+Donald Trump's Transgender Military Ban,controversy,2017,21654,"donald trump, lgbtq, military, controversy, transgendered, civil rights, politics, united states, transphobia, transgender",861,45,50,8161,7.07,25.15,medium-high
+Don't Claim To Be a Fan If You Don't Know Who This Is,image macro,2016,14924,"👏, snowclone",1061,45,50,8161,7.07,14.07,medium-low
+Don't Kill Yourself You're So Sexy Aha,catchphrase,2019,109800,"men, twitter, suicide, sexy, tennismenace3",243,50,50,31076,7.07,451.85,high
+Don't Vape on the Pizza,viral video,2016,2429,"vape, pizza, video, remix",169,5,5,497849,2.31,14.37,medium-low
+Drake's Lollipop Reaction,image macro,2018,8201,"drake, scorpion, magician, lollipop, candy, batman, superheroes, julius dien",635,12,50,782,7.08,12.91,medium-low
+Draymond Green Talking to Kevin Durant,hashtag,2017,5065,"basketball, kevin durant, draymond green, gifs, twitter, nba",1083,33,50,27537,7.07,4.68,low
+Drought Shaming,hashtag,2014,16987,"california, water, usage, drought, neighbors, app, restrictions, environment, tom selleck, kanye west, kim kardashian, los angeles, san francisco",1430,3,3,734025,2,11.88,medium-low
+Drunk Elephants,animal,2020,11368,"sleeping, tea garden, passed out, baby, ishuocha, ouhai, zhejiang, bagu wine, @epliang, @thepapercn, adarkcid, corn wine, @spilling_the_t, @ladyhaja",15,46,50,22574,7.07,757.87,high
+Dust Storm Dog,image macro,2018,4311,"doge, cloud, dog cloud, storms, doggo, haboob, @chopperguyt, ggfergu, davidhartman16wapt, gaydogagainstterrorism, cassandra_nova, @quenblackwell, maximusgibus",34,12,12,171353,3.48,126.79,high
+"Dwayne ""The Rock"" Johnson Standing Next to Sun Ming Ming",image macro,2014,16183,"dwayne the rock johnson, the rock, sun ming ming, basketball, wrestling, dwayne johnson, ridleyscotch, @markdalgleish, imblueboi",35,43,50,633,7.08,462.37,high
+Dylan Farrow's New York Times Open Letter,controversy,2014,5561,"controversy, scandal, woody allen, allegation",2253,14,27,93131,5.2,2.47,low
+Earth-chan,character,2017,513695,"anime, /r/animemes, earth, anthromorphism, planet, earthchan, planet earth, global warming, climate change",828,48,50,2007,7.08,620.4,high
+EA's new handheld console,hoax,2017,550,"ea, gaming, loot box, gambling",872,48,50,16022,7.07,0.63,low
+Easy D,slang,2017,45896,"euphemism, twitter, politics, donald trump, the d",1154,50,50,28,7.33,39.77,medium-high
+EatThatPussy445,character,2016,259,"eatthatpussy445, dankmeme",859,17,18,138732,4.25,0.3,low
+Eggette / Omelette,character,2017,31577,"eggette, omelette, eggatha, fan, character, sonic mania, eggman, sonic the hedgehog, spider, flying battery, art",937,7,9,234437,3.02,33.7,medium-high
+Eli Manning Exasperated Reaction,reaction,2018,4385,"football, sports, eli manning, new york giants, nfl, eli manning face",568,50,50,96,7.15,7.72,low
+Elizabeth Warren Always,snowclone,2019,2073,"elizabeth warren, politics, democrats, government, democratic presidential primary, president, united states, elizabeth warren has never",284,50,50,10917,7.07,7.3,low
+Elmo Nuclear Bomb,photoshop,2015,3119,"elmo, nuclear, bomb, explosion",35,6,7,258025,2.68,89.11,high
+Elon Musk Holding a Minigun,exploitable,2019,11218,"elon musk, meme review, pewdiepie, flamethrower, gun, not-a-flamethrower, machine gun, minigun, weapon, starship, twitter, tweet, tesla, spacex",434,35,50,17,7.5,25.85,medium-high
+Elon Musk Life Hacks,image macro,2017,5489,"russia, elon musk, tesla, what do you think, elon musk?, как тебе такое, илон маск?",593,3,5,140727,2.31,9.26,low
+"Elon Musk's ""Occupy Mars"" Tweet",image macro,2019,6946,"elon musk, mars (of which the moon is a part), donald trump, occupy mars, the moon, space, tesla",288,48,50,8954,7.07,24.12,medium-high
+Emo Kylo Ren,character,2015,69621,"star wars, the force awakens, twitter, parody, fake, emo, death star, teen angst",1545,43,50,27438,7.07,45.06,medium-high
+Emoblackthot Identity Hoax,controversy,2019,4737,"twitter, gender, hoax, black, thot, paper, isiah hickland, emoblackthot",174,46,50,5352,7.07,27.22,medium-high
+Emoji Sheriff,snowclone,2017,31658,"emoji, twitter, howdy, person, snowclone",1002,17,17,113793,4.13,31.59,medium-high
+End COVID Hoax,hashtag,2020,1273,"coronavirus, march, cleveland, social distancing, crowds, protest, #endcovid, @reflog_18, @someonesanidiot",7,45,50,2665,7.08,181.86,high
+Evil Kermit,image macro,2016,396599,"kemit the frog, muppet, twitter, dark kermit, darth kermit",691,49,50,13369,7.07,573.95,high
+Expanding Pupil,image macro,2014,18458,"multi-pane, exploitable, image macro, love, eyes, pupils",1125,7,7,345270,2.68,16.41,medium-low
+Fake Avatar Lines,parody,2017,10119,"avatar, james cameron, twitter",915,47,50,2064,7.08,11.06,medium-low
+Fake Fantas,photoshop,2018,3126,"fanta, soda",685,4,4,448216,2.12,4.56,low
+Fake Melania Trump Conspiracy,conspiracy theory,2017,7825,"melania trump, donald trump, body double",901,48,50,3552,7.07,8.68,low
+Fan Dropping Lady Gaga Off a Stage,viral video,2019,23636,"lady gaga, pop music, dancing, fans, fall, viral videos, celebrity, lau_calerone, idkpinecone, ultimaterializerx",168,12,12,147796,3.48,140.69,high
+"Feeling Cute, Might Delete Later",image macro,2017,21153,"selfie, parody, image macro, felt cute",978,50,50,2187,7.08,21.63,medium-low
+"Fellas, Is It Gay",parody,2007,57106,"twitter, gay, homophobia, masculinity, men, relationships, parody",957,50,50,238,7.1,59.67,medium-high
+Female Artist Album Cover Removals,image macro,2019,5293,"art, singer, musician, iranian, streaming, music, izzraifharz, japansmercy",188,9,9,254936,3.02,28.15,medium-high
+First of All,catchphrase,2017,67388,"twitter, sass, text post",901,49,50,1,12.23,74.79,high
+Free Art Copypasta (You Have Made A Massive Mistake),copypasta,2017,5711,"copypasta, shitpost, free art, massive mistake",869,49,50,36846,7.07,6.57,low
+Fresh Pizza Girl Meets Raven Girl,character,2017,24410,"fresh pizza girl, raven girl, twitter, pictures, subway",1072,15,15,174393,3.88,22.77,medium-high
+Fuck Your Zodiac Sign,snowclone,2010,8894,"zodiac, horiscope, sarcasm, humor, twitter",594,49,50,1028,7.08,14.97,medium-low
+Gatorboyz,animal,2017,117,"gatorboyz, gatorboyz gotcha",1014,11,44,56520,6.64,0.12,low
+Gaysper,emoticon,2019,15275,"ghost, vox, spain, far-right, lgbtq",341,31,50,40120,7.07,44.79,medium-high
+"George Ciccariello-Maher's ""White Genocide"" Tweet",controversy,2016,33971,"white genocide, professor, controversy, politics",1195,37,50,136,7.13,28.43,medium-high
+Get Out Challenge,participatory media,2017,44197,"get out, movie, challenge, gif, #getoutchallenge",363,49,50,256,7.1,121.75,high
+Girls in Class Looking Back,image macro,2019,8584,"girls, school, class, teenager, relationship, embarrassment, ermalbytyci, jncos, limp bizkit, korn, kornrare, bmchriss44, flackoyee",37,14,14,159764,3.75,232,high
+Girls Like It When...,snowclone,2017,2449,"twitter, gotitforcheap, nopoweradeinusa, e1podcast",845,50,50,90,7.15,2.9,low
+Girls That I Like vs Girls That Like Me,image macro,2015,10079,"relationships, objectification, plus sized",930,37,37,67361,6.09,10.84,medium-low
+"Go Ahead, Justify This",image macro,2016,6646,"edward snowden, image macro, dank memes, parody, twitter, tweet",964,50,50,14447,7.07,6.89,low
+Government Work From Home,reaction,2020,22354,"working from home, work from home, remote working, remote workers, coronavirus quarantine, coronavirus lockdown, covid-19, meme, reaction, twitter, reddit, efficaciousbean, shreyash_jais_02, carkid5508, aceleader2998, @wan23danny",6,49,50,830,7.08,3725.67,high
+Grab Her Waist,exploitable,2014,25391,"four panel, batista bomb her, wwe, wrestling, exploitable, animemes, kortneywilliams, drakeslilbro",154,49,50,6923,7.07,164.88,high
+Grape-kun,animal,2017,256155,"anime, kemono friends, waifu, penguin, japan",831,50,50,37586,7.07,308.25,high
+Great Day at the White House,catchphrase,2017,2789,"president trump, white house, scaramucci, politics, twitter",980,49,50,9874,7.07,2.85,low
+Green Selena Gomez,image macro,2019,2319,"selena gomez, actor, singer, hollywood, confidence",342,48,50,42749,7.07,6.78,low
+Guy Touching Fingers,reaction,2020,4747,"fingers together, 👉👈, fingers touching, black guy, orange, awkward, reaction image, shy, nervous, hesitant, fingertips, index fingers",19,21,21,123328,4.59,249.84,high
+Guy Tries to Impress Girl,image macro,2016,27940,"stock photography, stock photo, image macro, romance, dialogue",1141,4,4,586757,2.12,24.49,medium-high
+Guys Literally Only Want One Thing And It's Fucking Disgusting,catchphrase,2017,231028,"twitter, sex, catchphrase, exploitable",826,50,50,10333,7.07,279.69,high
+Gym Kardashian,photoshop,2018,24450,"kim kardashian, swole, photoshop",775,46,50,51238,7.07,31.55,medium-high
+Harry Styles Victoria's Secret Fashion Show Dance,image macro,2017,9045,"harry styles, one direction, victoria's secret, hotline bling, drake",863,24,24,104507,4.9,10.48,medium-low
+Haunted Doll That Drinks All Your Pepsi And Calls You A Bitch,exploitable,2017,96525,"astolfo, fate grand order, exploitable, fate, splatoon, haunted doll, callie",406,6,27,93599,5.2,237.75,high
+"Hello, This Is Daenerys",image macro,2017,26377,"game of thrones, jon snow, daenerys targaryen, hbo, television",977,49,50,5678,7.07,27,medium-high
+Henrying,parody,2013,25867,"sports, soccer, football, thierry henry, photo fad, pose, ceremony, major league soccer, new york bulls, houston dynamo, toronto fc, kicktv, muhammed ali, sonny liston, diego maradona, bleacher report, sports illustrated, nbc sports, empire of soccer",236,5,9,283785,3.02,109.61,high
+Hiding From a Serial Killer,image macro,2016,17678,"image macro, photo, twitter quote, twitter, trick",1120,41,41,64719,6.41,15.78,medium-low
+Hoodie Melo,parody,2017,12458,"carmelo anthony, basketball, knicks, dark kermit, evil kermit",964,50,50,3045,7.07,12.92,medium-low
+Horny On Main,slang,2017,15634,"tumblr, blog, constable frozen, sex",849,50,50,60,7.19,18.41,medium-low
+Hot Cheeto Bath,viral video,2020,2729,"tweet, red drink, burning, flaming, stressful, @sp00kynugget, @melaninisgolde1, costco, @daquijey",47,3,3,849467,2,58.06,medium-high
+How It Ought To Be,image macro,2017,10123,"hurricane harvey, twitter, matt walsh, woman cradles baby, man protects both, gender studies, gender, sex, men, women",951,50,50,1498,7.08,10.64,medium-low
+How Italians Do Things,image macro,2017,268295,"italy, hand gesture, stereotype, italian culture",1075,11,11,216490,3.33,249.58,high
+How Republicans Are Born,snowclone,2017,12722,"grover norquist, republican, democrat, twitter, politics",1016,48,50,28159,7.07,12.52,medium-low
+How to Kidnap Me,image macro,2012,1959,"kidnap, pizza, vans, creepy, predator",929,50,50,4264,7.07,2.11,low
+Human Shrek Producer,character,2017,113,"human shrek, sm producer, shrek",843,48,50,2798,7.08,0.13,low
+Humblebrag,slang,2010,16120,"humblebrag, twitter",1758,41,50,527,7.09,9.17,low
+i amn just... a litle creacher,copypasta,2018,26629,"cat, catspeak, tumblr, peepee the cat",455,31,50,49959,7.07,58.53,medium-high
+I Bet He's Thinking About Other Women,image macro,2016,23930,"captioned stock photos, stock photo, relationships, internal monologue, thinking about other girls",974,35,37,68365,6.09,24.57,medium-high
+I Get My News From a Reliable Source,image macro,2017,22782,"wii news, spongebob squarepants, news, fake news, reliable",1127,27,27,89971,5.2,20.21,medium-low
+I Have Many Moods,image macro,2019,1460,"moods, @amrezy, amra olević reyes, model, facial reactions, twitter",343,50,50,10440,7.07,4.26,low
+I Lived Bitch,emoticon,2014,67058,"i lived bitch, twitter, text message, messages, iphone",1075,50,50,1002,7.08,62.38,medium-high
+I Look Like All You Need,parody,2018,11036,"twitter, reply, sexy",399,48,50,511,7.09,27.66,medium-high
+"I Meet Someone, We Talk, They Leave",exploitable,2019,14398,"recap of my life, relationships, dating, love, playgames2k19, francy-is-the-best, @sweetserialpisces, @trashcanpaul",33,50,50,10407,7.07,436.3,high
+I Pledge to Work For Free,copypasta,2018,11125,"i pledge to work for free for any school to help secure the children. i am a 29 year retired veteran, infantry sergeant major, u.s. army ranger with combat experience. i have a conceal carry, primary and alternate side arms, an ar-15, and all necessary ta",770,5,5,262133,2.31,14.45,medium-low
+I Say Into the Mic,snowclone,2017,10658,"twitter, boo, snowclone",837,50,50,5613,7.07,12.73,medium-low
+I Try So Hard to Be His Friend,catchphrase,2017,8654,"donald trump, kim jong un, nuclear war, twitter, short and fat, feud, politics, north korea",874,13,15,123728,3.88,9.9,medium-low
+I Want What They Have,catchphrase,2020,144,"headphones, catchphrase, lilnasx, ladygaga, social, media, tangled, love, viral, fans, objects, popular",40,50,50,19,7.46,3.6,low
+I Want You To Hurt Me,snowclone,2018,21823,"sex, bdsm, hurt me, [during sex], couple doing bdsm, skoogeth, lilah_sturges, minnascule",155,49,50,155,7.12,140.79,high
+I Will Now Buy Your Game,exploitable,2017,145770,"glitchedpuppet, video games, sexual dimorphism, twitter",826,49,50,21666,7.07,176.48,high
+I Worked On This Story for a Year...,parody,2017,30352,"donald trump jr., donald trump jr. twitter email, jared yates sexton, twiter meme",999,44,50,34012,7.07,30.38,medium-high
+I'd Like to See North Korea,image macro,2016,13131,"bee movie, north korea, united states, war, army, defenses",965,26,26,91885,5.1,13.61,medium-low
+If It Pleases the Crown,image macro,2017,27356,"libertarian, politics, government, monarchy, law, freedom",1135,44,50,42042,7.07,24.1,medium-high
+If You Play This Song On New Year's Eve,snowclone,2017,35656,"music, song, new year's eve, bring me to life",833,13,13,153906,3.62,42.8,medium-high
+I'm a Man / Woman Looking For,snowclone,2017,12573,"twitter, carly rae jepsen, call me maybe, i'm a, looking for, emoji",959,48,50,7690,7.07,13.11,medium-low
+I'm an E-girl Who Plays Video Games,copypasta,2019,9015,"starter pack, video games, girl",350,46,50,691,7.08,25.76,medium-high
+I'm In a Good Place Right Now. Not Emotionally,snowclone,2015,12941,"gabrial iglesias, jimmy john, emperor uriel septim vii, @jessobsess",19,31,33,80751,5.75,681.11,high
+In A Dream Challenge,social game,2017,3569,"dance, hashtag, viral, challenge",911,48,50,4183,7.07,3.92,low
+iNcontroL,gamer,2019,2720,"sc2, incontrol, starcraft",258,47,50,6126,7.07,10.54,medium-low
+Internet Death Hoaxes,hoax,2010,186470,"hoax, celebrity, twitter, facebook, death hoax",1778,3,3,244945,2,104.88,high
+Invisible Box Challenge,social game,2017,10062,"cheerleader, football, social challenges, step, fall, pantomime, challenge, step over invisible box, online challenges",853,31,31,80053,5.57,11.8,medium-low
+iPhone 6 Bendgate,controversy,2014,39549,"apple, iphone, controversy, iphone 6, bendgate",1975,10,10,151656,3.18,20.02,medium-low
+iPhone X Price Comparisons,exploitable,2017,21982,"comparison, chart, iphone, iphone x, apple",924,45,50,3541,7.07,23.79,medium-high
+It's Okay To Be...,snowclone,2017,12245,"snowclone, twitter, fandom, race",770,50,50,9,7.92,15.9,medium-low
+It's So Fucking Big,reaction,2017,240785,"image macro, porn, reaction image",1117,50,50,987,7.08,215.56,high
+Ivanka's Taj Mahal Trip,photoshop,2020,1909,"india, indians, trump, photoshop, taj mahal, @diljitdosanjh, aditya chaudhary",35,45,50,229,7.1,54.54,medium-high
+J. Cole Went Platinum With No Features,catchphrase,2016,75108,"j. cole, j cole, hip hop, rapper, musician, rap, platinum, fandom",849,35,36,69575,6,88.47,high
+Jada's Sexual Assault Case,crime,2014,131439,"rape, cyberbullying, sexual assault, twitter, jada, iamjada, feminism",1099,45,50,12,7.69,119.6,high
+Janet the Superhero,character,2017,9805,"child, drawing, superhero, fandom, fan art",970,4,7,98421,2.68,10.11,medium-low
+Janey Godley,actor,2018,150,"janey godley, scottish independence, janey godley voiceovers",203,48,50,4346,7.07,0.74,low
+Japanizing Beam!,exploitable,2017,42497,"knowyourmeme, japan, anime",1124,29,49,53178,7,37.81,medium-high
+Jared Kushner Russian Collusion Speech,image macro,2017,4046,"jared kushner, politics, donald trump, russia, russiagate, news, ivanka trump, media, washington dc, white house",987,46,50,13629,7.07,4.1,low
+Jesse Watters' Microphone Joke Controversy,controversy,2017,9590,"fox news, ivanka trump, jesse watters, twitter",1076,4,4,655733,2.12,8.91,low
+"Joe Biden ""Liquid Swords"" Tweet",snowclone,2014,8568,"joe biden, wu-tang clan, blippoblappo, gza",932,44,50,2422,7.08,9.19,low
+Joe Biden Draw a Clock Emoji,emoticon,2020,1509,"joe biden, chapo trap house, elizabeth warren, draw, clocks, age, old, 2020 presidential primary, 2020 presidenital election",28,34,37,58364,6.09,53.89,medium-high
+Joe Biden Lecturing a Woman,reaction,2019,1762,"joe biden, hyde amendment, 2020 presidential race",299,48,50,24559,7.07,5.89,low
+"Joel ""Do a 180"" Embiid",gaffe,2020,816,"jeopardy, the process, 76ers, sports, basketball",32,21,21,99074,4.59,25.5,medium-high
+Joel Osteen Resignation Hoax,hoax,2013,12748,"religion, trolling, hoax, christianity",1112,40,50,357,7.09,11.46,medium-low
+Joker Gun Mashups,pop culture reference,2019,2293,"joker, ssbu, gun, bpm",351,4,6,99027,2.5,6.53,low
+"Jo's ""I Can't""",reaction,2020,4918,"gif, timothee chalamet, little women, i've tried, laurie, saoirse ronan, timothée chalamet, @debickix, @chaoswaiking, @aherman2006, adam driver",47,48,50,26544,7.07,104.64,high
+Just Kidding... Unless?,catchphrase,2019,221271,"minecraft, twitter, flirting, lzrs_87, omegaarte, indeprive, mayabomb, catsminty, minecraft bed, icedoutomnitrix",156,50,50,253,7.1,1418.4,high
+"Kendrick Lamar ""Damn"" Album Cover",image macro,2016,22653,"rap, hip hop, music, kendrick lamar, album, parody, culture",1090,4,4,345806,2.12,20.78,medium-low
+Keurig Boycott,protest,2017,11729,"keurig, sean hannity, roy moore, conservatives, trigger the libs",876,50,50,37745,7.07,13.39,medium-low
+KFC 11 Herbs and Spices,campaign,2017,2567,"viral marketing, kfc, twitter, advertisment, @kfc, kentucky fried chicken, fast food",880,49,50,20507,7.07,2.92,low
+KFC Crocs,product,2020,2926,"crocs kentucky fried chicken, shoes, collaboration, drumsticks, bucket",54,48,50,12384,7.07,54.19,medium-high
+Kirby's Human Feet,pop culture reference,2017,34188,"kirby, art, feet, gross, creepy",1106,18,19,119079,4.37,30.91,medium-high
+Kiyiya Vuran Insanlik (Drowned Syrian Boy),hashtag,2015,31963,"humanity washed ashore, syria, isis, refugee, crisis, turkey, hungary, germany, greece, migrants, mediterannean",1428,40,41,53337,6.41,22.38,medium-high
+Kylie Jenner Challenge,hashtag,2015,83478,"hashtag, kylie jenner, kim kardashian, twitter, alex ramos, vine, cosmetic surgery, lip plumping",1798,46,50,6676,7.07,46.43,medium-high
+"Lady Gaga ""AAAA"" Tweet",reaction,2012,12682,"lady gaga, asdf, reaction, twitter",568,50,50,23763,7.07,22.33,medium-high
+Large Adult Sons,character,2012,6659,"mike huckabee, dril, weird twitter, clickhole, eric trump, donald trump jr",838,50,50,16175,7.07,7.95,low
+Laughing Theresa May,viral video,2017,20471,"united kingdom, gif, video, prime minister",1125,49,50,43333,7.07,18.2,medium-low
+Laundry Sauce,slang,2016,41028,"twitter, slang, detergent",1093,47,50,10640,7.07,37.54,medium-high
+LazyDisc,copypasta,2018,168,"cancer, testicles, copypasta, youtube, lazy, disc, lazydisc, awareness, testicularcancer, sickballs",571,47,50,21473,7.07,0.29,low
+Length of Recording,snowclone,2016,4173,"audio, twitter, recording, me talking about x",1005,50,50,12031,7.07,4.15,low
+Lewis' Law,axiom,2012,31342,"helen lewis, law, feminism, twitter, lewis, online debate, men's rights",1721,49,50,31,7.31,18.21,medium-low
+Liberal Twitter Emoji War,campaign,2016,40578,"emoji, liberal, socialism, corncob, doughnut, rose, wilted rose",953,47,50,5619,7.07,42.58,medium-high
+Lizzo Postmates Controversy,controversy,2019,5142,"snitch, narc, tattle-tale, delivery, driver, food, tiffany w",202,9,9,281621,3.02,25.46,medium-high
+Look At This Beautiful View Outside My Window,copypasta,2014,2443,"twitter, photos, jomnysun",671,50,50,116,7.14,3.64,low
+Lookin' Like A Snack,slang,2009,12744,"bae, black twitter, sex",874,50,50,1463,7.08,14.58,medium-low
+Love Too,catchphrase,2009,3710,"twitter, weird twitter, dril, wint, humor, grammar",898,50,50,1,19.96,4.13,low
+Lulu the Failed CIA Dog,character,2017,14366,"cia, bomb sniffing, dog, k9, good dog, bomb detection, cute story",855,49,50,5437,7.07,16.8,medium-low
+Mackle Less,slang,2012,3151,"pun, macklemore",877,16,16,150243,4.01,3.59,low
+Mains Be Like,snowclone,2018,5358,"super smash brothers ultimate, main, ascii, twitter, emoji",454,49,50,1681,7.08,11.8,medium-low
+Makankosappo / Hadokening,participatory media,2013,140745,"street fighter, photo fad, hadouken, hadoken, hadokening, makankosappo, hadoukening",399,42,50,31556,7.07,352.74,high
+Make America Great Again,catchphrase,2015,87737,"presidential campaign, twitter, merch, slogan, make america great again, hat, donald trump, 2016, gop, immigration, 2016 us presidential election",826,47,50,42,7.25,106.22,high
+Malaysian Airlines Flight 370,disaster,2014,58772,"mystery, tragedy, airline, disaster, malaysia, air travel, airline disaster",1707,30,32,78455,5.66,34.43,medium-high
+Man Bun Ken,image macro,2017,13412,"barbie, ken, mattel, toys, hipster, dolls, kids, race, hair",1020,15,19,127517,4.37,13.15,medium-low
+Man Distracted By Laptop,exploitable,2017,14224,"laptop, sex, distracted",830,50,50,906,7.08,17.14,medium-low
+March 1 vs. April 1,catchphrase,2020,2949,"31st, before and after, coronavirus, social distancing, start, end, @agenttinsley, @elarturoso, @erinemaxwell, @ditzkoff, @wonderal",2,48,50,40616,7.07,1474.5,high
+Markus Persson / Notch,programmer,2011,60128,"twitter, minecraft, exploitable",1385,38,50,20212,7.07,43.41,medium-high
+Marshall Law,parody,2020,2113,"marco rubio, martial law, eminem, goldengateblond",20,47,50,423,7.09,105.65,high
+Marvel/Northrop Grumman Partnership Controversy,controversy,2017,10840,"marvel, northrup grumman, new york comic con 2017, controversy, weapons, twitter",909,49,50,2,11.04,11.93,medium-low
+Matthew McConaughey Inspirational Speech,image macro,2017,5029,"matthew mcconaughey, actor, hollywood, basketball, university of texas",898,3,3,780366,2,5.6,low
+Me Anywhere Else,catchphrase,2011,8299,"me at school, me at work, comparison, states, united",860,50,50,242,7.1,9.65,medium-low
+Me on Election Day 2016 vs. 2017,image macro,2017,8139,"election, politics, sigourney weaver, alien, twitter, voting, vote",881,40,50,430,7.09,9.24,low
+Melania Trump's Christmas Decorations,parody,2017,14111,"melania trump, white house, christmas, creepy, flotus, whitehouse, christmas decorations",860,7,7,36810,2.68,16.41,medium-low
+Mike Bloomberg's Anti-Trump Billboards,photoshop,2020,11790,"donald trump, mike bloomberg, billboards, democratic primary, 2020 presidential election, medium rare, hotmama83163983, alx",44,47,50,15,7.55,267.95,high
+Milkshake Duck,slang,2016,239884,"racism, twitter, social  media, we regret to inform you, slang, neologism, milkshake duck brings the boys to the yard, 15 minutes of fame, everybody is offended, politically correct",831,49,50,7089,7.07,288.67,high
+Millimeters of Bone,catchphrase,2016,15835,"incel, reddit, men, men's rights, involuntary celibacy, mra, genetics, chad, non-chad",891,16,16,115371,4.01,17.77,medium-low
+Mini Joker,exploitable,2019,11173,"mini, midget, small, joker, joaquin phoenix, dancing, exploitable, red suit, clown, jr, smol, wikiesqueletos, sodeep9401, iamnoble, atlas-303, ttracs149, pangolin257, gergithegreat",166,46,50,10897,7.07,67.31,medium-high
+Mio Honda Fried Chicken Video,viral video,2019,17576,"mio honda, cinderella girls, fried chicken, ifunny, video game, the idolm@ster cinderella girls, dance, hemoglosso, linustechtipsfanpage, tazmazy, kosmohaunt, kingcloverfield",174,5,5,470690,2.31,101.01,high
+Miss Rona,character,2020,6385,"black twitter, corona, coronavirus, covid-19, girl, nails, virus, hoops, @shannonnthecity, @jules_kto, @nothighfr, @sodebnair",15,50,50,120,7.13,425.67,high
+Mnuchin Cash,parody,2017,3797,"steve mnuchin, taxes, tax break, louise linton",873,49,50,17231,7.07,4.35,low
+Mom Would Be Sad,slang,2018,30091,"mom, dog, dad, would be sad, wouldn't understand, suicide, me irl, 2meirl4meirl",452,49,50,3721,7.07,66.57,medium-high
+Moon's Haunted,catchphrase,2018,148399,"destiny 2, seamachine, fan art, the moon, space, nasa, @dustinkcouch, interestingsometimes, wisescratch, moons haunted, moon is haunted, moon haunted",292,37,50,10390,7.07,508.22,high
+Mordecai Was a Simp,viral debate,2019,28000,"simp, regular show, mordecai, margaret, cj, orbiter, finn, adventure time, kingfadedz, holyperc30, simeonv2, oocregularshow, cjafterdark, imyles, kasaisaiyajin",44,32,32,79358,5.66,636.36,high
+MrBeast Employee Bullying Controversy,controversy,2019,7255,"matt turner, editing, editor, youtuber, bullying, boss, credit, job, flyydoesyt",180,50,50,298,7.1,40.31,medium-high
+My Dad Just Texted From Across The Table,image macro,2014,5678,"daddy, who's your, dad, texted, table, parents, fail",1021,50,50,1789,7.08,5.56,low
+My Headphones,snowclone,2019,1631,"copypasta, music, twitter, snowclone, goothangel, three days grace, sanaorbits, hestylesdebut, caitlinblunnie, margielamuse",173,49,50,25,7.36,9.43,low
+My Last Brain Cell,image macro,2016,6735,"spongebob, brain, school, intelligence",846,50,50,933,7.08,7.96,low
+My Mom Made This Meme,image macro,2017,12601,"cyclops, eclipse, mother, mom, viral, twitter",956,35,35,75146,5.92,13.18,medium-low
+My Momma Said,image macro,2018,97364,"cardi b, baby picture, rap, music",632,50,50,268,7.1,154.06,high
+My Quarantine Routine,snowclone,2020,3547,"quarantine, coronavirus, health, routines",16,48,50,3607,7.07,221.69,high
+Naked Man Riding a Shark,controversy,2017,17959,"conservation, hunting, animal welfare, sharks, nudity, mystery, jimmy johns, football",1061,48,50,68,7.18,16.93,medium-low
+Name a Badder Bitch Than Taylor Swift,image macro,2017,15313,"taylor swift, bad bitch, look what you made me do, badder bitch, twitter, controversy, baddest bitch, reputation, taylor swift reputation, huffington post, the guardian, stuff, paper mag, elite daily",854,4,4,338029,2.12,17.93,medium-low
+Nathan Fielder,comedian,2013,18750,"twitter, prank, starbucks, comedian, instagram, prankster",1616,48,50,1851,7.08,11.6,medium-low
+Need Tomboy,exploitable,2019,6154,"exploitable, captcha, tomboys, fightingalex_, don't type, hbjohnxuandou, abdullah-bandicoot",35,46,50,4507,7.07,175.83,high
+Neekolul vs. Belle Delphine,viral debate,2020,15168,"neeko, simps, simp, ok boomer, twitch, bernie, hit or miss, sushii-, nyannyan cosplay, @andymelancholy, @yessifarts, @kallix_",6,47,50,622,7.08,2528,high
+Netflix and Chill,hashtag,2015,637160,"20 minutes, sex, hanging out, hooking up, hookup culture, twitter, black twitter, snopes, urban dictionary, slang, expression, netflix, branding",839,50,50,105,7.14,759.43,high
+New York Times Opinions Parodies,parody,2017,8379,"new york times, op-ed, opinion pages, parody, news, media, newspaper, trump, erik prince",950,48,50,11718,7.07,8.82,low
+Neymar Challenge,parody,2018,8040,"neymar, fifa, world cup, soccer, football, social challenges, video",400,44,50,12696,7.07,20.1,medium-low
+NFL ON FOX Theme,remix,2017,379,"spongebob, earrape",827,49,50,12148,7.07,0.46,low
+Nic Cage in Kazakhstan,photoshop,2017,13961,"nicolas cage, photoshop battle, twitter, reddit",988,47,50,96,7.15,14.13,medium-low
+"Nick Robinson ""Krystal From Star Fox"" Controversy",controversy,2017,78257,"nick robinson, star fox, feminism, krystal, star fox adventures",1101,42,43,59124,6.56,71.08,medium-high
+"Ninja's ""It's Just A Game"" Tweet",copypasta,2020,19790,"ninja, copypasta, gaming, fortnite",47,50,50,11,7.71,421.06,high
+No One Has This Range,catchphrase,2020,1258,"range, she doesnt have the range, margot robbie, @clarksleague, @acklesbucky, helena bonham carter, jon heder, @aswedishplumber, @marvellbellarke, @microgoogling",21,50,50,6842,7.07,59.9,medium-high
+No Pomegranates,viral video,2017,32202,"viral video, university, professor, psychology, snapchat",903,49,50,13845,7.07,35.66,medium-high
+Norman Reedus Holding Things,exploitable,2016,27910,"photoshop, death stranding, hideo kojima",1376,48,50,821,7.08,20.28,medium-low
+"Not Funny, Didn't Laugh",image macro,2019,66979,"funny i laugh, not funny didn't laugh, ifunny, reaction, memethief6969, nearretrograde, dyatlov, froggotv, jeffswiper, admblackhawk, wooby_osu",247,49,50,134,7.13,271.17,high
+Nothing But Respect for My President,copypasta,2017,18882,"donald trump, twitter, president, celebrity, parody",924,50,50,1690,7.08,20.44,medium-low
+"Oh Fuck, Put It Back In",reaction,2017,132871,"riley reid, porn, out of context porn, reaction image",818,36,36,68575,6,162.43,high
+Oh To Be,image macro,2011,1967,"animals, dogs, poetry, @domestich, @kwmorris, @band_maiko, @leoninlaurent, @canterbunny, valentinavml, greenanorak",33,50,50,1,14.59,59.61,medium-high
+"OK, Hear Me Out",slang,2008,3734,"cast, take, casting, little mermaid, listen, idea, enragedpenguin, omghotmemes, michael scott, ursula, hijinksensue, chewedcorn, domcorona_, gru",155,50,50,116,7.14,24.09,medium-high
+On Brand Childhood Stories,social game,2018,3717,"twitter, childhood, brand, personal, story",637,4,4,278461,2.12,5.84,low
+Open for a Surprise,photo fad,2014,5906,"photo, twitter, animals, pictures, open",960,50,50,36,7.27,6.15,low
+Oscars So White,hashtag,2015,56658,"oscars, white, black, racism, people of color, whitewash, white men, hollywood, films, idris elba, #oscarsowhite",1431,49,50,7136,7.07,39.59,medium-high
+Parkrose High School Student Disarming,crime,2019,5429,"shooter, suicidal, mental health, coach, hug, hugging, shotgun, lowe, granados-diaz",169,6,7,327499,2.68,32.12,medium-high
+Parks Denton,controversy,2017,6827,"twitter, catfishing, cat fish, gay, homosexual, lgbtq, relationships, ghosting",943,14,18,102861,4.25,7.24,low
+Passenger Airbag Off,reaction,2016,3619,"reaction image, dank memes, cars, things i don't like",837,22,22,116891,4.7,4.32,low
+Paul Ryan's Gavel Bang,image macro,2017,4208,"gop, republican, paul ryan, tax cuts and jobs act, senate, house of representatives, politics, economics",839,49,50,3801,7.07,5.02,low
+Paul Ryan's PowerPoint Presentation,photoshop,2017,24401,"powerpoint, paul ryan, photoshop",1124,37,50,530,7.09,21.71,medium-high
+Pee Is Stored in the Balls,copypasta,2013,50247,copypasta,889,49,50,3393,7.07,56.52,medium-high
+Peepee Poopoo,catchphrase,2016,887,peepee poopoo,54,49,50,768,7.08,16.43,medium-low
+Peppa Pig's Height,image macro,2019,73586,"children, kids, cartoon, animation, fandom, tall, short, memeulous, reedushiddles, lammy_42_, joae20065719",251,4,4,242554,2.12,293.17,high
+PETA's Animal Crossing Guide,viral debate,2020,12005,"fishing, nintendo, game, diet, vegan",9,50,50,33026,7.07,1333.89,high
+Petro Poroshenko's The Economist Cover,photoshop,2016,12964,"ukraine, putin, photoshop, the economist, magazine covers, vogue, edit, gq, russia, twitter",1428,10,11,214794,3.33,9.08,low
+Petty,slang,2017,11729,"petty, black twitter, twitter, slang",1085,49,50,4,9.11,10.81,medium-low
+Pierre Delecto,character,2015,8586,"mitt romney, trump, twitter, lurker, secret, @qaws9876, atlandtic, slate, richard burr, steven dennis, jennifer rubin, mckay coppins, ashley feinberg, kanew, spikeeskin",167,48,50,2063,7.08,51.41,medium-high
+Pink Grimacing,reaction,2017,14402,"american music awards, christina aguilera, whitney houston, music, popular music",868,5,5,430576,2.31,16.59,medium-low
+Platinum Blonde Kris Jenner,image macro,2017,3717,"keeping up with the kardashians, kris, kim kardashian west, fox, fur, scarf, rich, wealth, white suite",895,50,50,383,7.09,4.15,low
+Please Disconnect The Bluetooth Speaker,exploitable,2016,189767,"parents, cringe, hentai, mobile, exploitable",1444,19,19,132989,4.37,131.42,high
+Please Don't Break The Window,exploitable,2016,11737,"dog, exploitable, snowclone",977,10,10,178102,3.18,12.01,medium-low
+Please. My Wife. She's Very Sick.,image macro,2015,15481,"phrasal template, snowclone, raccoon, guy fieri, wife, sick",973,9,9,1996688,3.02,15.91,medium-low
+Pop Tart State Traditions,parody,2017,5017,"pop tarts, food, gross",860,8,8,316576,2.86,5.83,low
+Pray For Paris,hashtag,2015,21218,"paris, terrorism, empathy, facebook, hashtags, twitter, activism, world, politics",1431,47,50,1372,7.08,14.83,medium-low
+Pregnancy Announcement,exploitable,2014,277195,"anime, exploitable, pregnancy test, japan, twitter, 2chan, futaba channel, photo collage",1474,47,50,1017,7.08,188.06,high
+Priced Out of Dublin,snowclone,2018,504,"phrasal template, dublin, irish times, housing, finance, consider gorey",817,12,12,212372,3.48,0.62,low
+Princess Diana Well Dressing,photoshop,2017,7213,"princess diana, england, london, british, uk, world leaders, photoshop, potato jesus",937,47,50,180,7.11,7.7,low
+Put Your Head On My Shoulder,remix,2017,4188,"paul anka, remix, tumblr, anthony florey, music, song",854,50,50,431,7.09,4.9,low
+Redbone,song,2017,106410,"childish gambino, r&b, song, remix",1049,49,50,318,7.1,101.44,high
+Release the Butthole Cut,catchphrase,2020,34846,"cats, film, cgi, buttholes, @benmekler, @jackwaz, vfx, #releasethebuttholecut, @civvie11, rian johnson, @michaeltushaus, xvp comedy, @scalzi, @scottwamplerbmd",2,44,45,56554,6.71,17423,high
+Respect Women,image macro,2016,225689,image macro,1068,49,50,28,7.33,211.32,high
+Retire Bitch,slang,2013,41588,"twitter, politics, danny devito",1132,45,50,922,7.08,36.74,medium-high
+Rick Perry in Saudi Arabia,image macro,2017,3068,"rick perry, government, saudi arabia, middle east, shoes, feet, desert, politics, texas, twitter, instagram thot",852,2,10,222949,3.18,3.6,low
+Rihanna Is Jamaican,viral debate,2019,887,"rihanna, #rihannaisjamaica, barbados, jamaica, black twitter, music",175,29,29,84923,5.39,5.07,low
+Riot Hipster,photoshop,2017,29883,"germany, g20, summit, antifa, activist, protester, demonstration, iphone, capitalism, #riothipster",1002,23,25,956884,5,29.82,medium-high
+Risk It All,catchphrase,2014,824,"love, romance, infatuation",13,50,50,17,7.51,63.38,medium-high
+Robert Pattinson Potion Seller,image macro,2019,3707,"dior, fashion, the poition seller guy, elder scrolls, traveler, energy",174,48,50,23,7.39,21.3,medium-low
+Roll Safe,reaction,2016,916475,"image macro, black twitter, reaction, thinking, think smart, be smart, rollsafe, it's not, if you, logic, public service announcement, psa, kayode ewumi, reece simpson",820,49,50,515,7.09,1117.65,high
+Rolling Lemon,viral video,2018,13784,"lemon, skaeriver, mike sakasegawa, fruit, rolling",634,47,50,19358,7.07,21.74,medium-high
+Sad Donald Trump Jr.,image macro,2017,14268,"donald trump, photograph, twitter",1113,37,50,16660,7.07,12.82,medium-low
+Sad Howdy Boy,emoticon,2017,792,"#yeehaw, #cowboy, #emoji, #howdyboy",888,35,35,73455,5.92,0.89,low
+Sad Subway,character,2017,105,"subway, sad, mascot, pisa, lonely, sub, sandwich, job, minimum wage, poor, sooubway, male, female",834,48,50,5423,7.07,0.13,low
+Sad Tom Brady,reaction,2017,12908,"super bowl 51, super bowl, tom brady",1156,49,50,1555,7.08,11.17,medium-low
+Sam Seder MSNBC Termination Controversy,controversy,2017,4382,"msnbc, mike cernovich, chris hayes, roman polanski",852,21,21,155935,4.59,5.14,low
+Sarah Huckabee Sanders #PieGate,conspiracy theory,2017,6547,"sarah huckabee sanders, trump, april d ryan, pies, thanksgiving, christmas, baking, stock photos, controversy, hashtag, baking pies, fake pies, april d. ryan",842,9,9,271571,3.02,7.78,low
+Say Sike Right Now,image macro,2019,185700,"super mario maker 2, piranha creeper, super mario, nintendo, time traveler conversation, sike, world war 1, video games, piranha plant, nira3333, blue pirahana creeper plant, garrettxxc, darkdawg219, darkdawgyt, sturext, please say sike",257,50,50,255,7.1,722.57,high
+Scared Luigi,exploitable,2019,14707,"e3, nintendo, luigi's mansion, show floor, luigi, scared, flinching, shy",288,20,50,6215,7.07,51.07,medium-high
+Scarlett Johansson's SodaStream Ad Controversy,controversy,2014,20902,"actress, sodastream, scarlett johansoon, celebrity controversy, scarlett johansson",1869,40,50,8125,7.07,11.18,medium-low
+Seinfeld2000,parody,2013,9927,"jerry seinfeld, george costanza, twitter, instagram, social media, parody, elaine, kramer, kram, ebook, modern, y2k, millenial",1035,49,50,2722,7.08,9.59,low
+Sex Is an Intimate and Sacred Act,snowclone,2017,9476,"sex, intimacy, snowclone, twitter",970,12,22,112909,4.7,9.77,medium-low
+Sexual Attraction to Inanimate Objects During Quarantine,participatory media,2020,14262,"quarantine, coronavirus, risk it all, acting up, sex, object sexuality, objectophilia, @flxwer_boyy, daphillymann, @ninaillestgirl",12,6,6,397154,2.5,1188.5,high
+Shawn Mendes and Camila Cabello's Zombie Walk,viral video,2020,3833,"couple, walking, outside, social distancing, paparazzi, shan mendes, camila cabello",2,50,50,1721,7.08,1916.5,high
+She Took The Fucking Kids,catchphrase,2012,103879,"i can't believe it's not butter, took the kids, divorce, depression, hippity hoppity",433,46,50,26874,7.07,239.91,high
+Sheriff Hopper Dancing,remix,2017,7726,"stranger things season 2, netflix, sherriff hopper, eleven, television, remix videos, songs, music, dancing",890,34,36,72088,6,8.68,low
+She's Beautiful. Who Is? The Girl Reading This,copypasta,2012,17809,"relationships, ironic, girls",908,46,50,8325,7.07,19.61,medium-low
+Shia Labeouf's Plagiarism Controversy,controversy,2014,117298,"celebrity, controversy, actor, shia labeouf, plagiarism, performance art, exhibition",2231,50,50,5216,7.07,52.58,medium-high
+Shrek Bae,viral video,2018,4746,"shrek, impression, bae, viral",636,45,50,50381,7.07,7.46,low
+"Shut Up, Carol",catchphrase,2015,25488,"twitter, carol, relatable",953,47,50,8778,7.07,26.75,medium-high
+"Sir, You've Been In A Coma",image macro,2016,62484,"coma, years, outdated",1099,21,36,66799,6,56.86,medium-high
+Slapping Bags of Rice,axiom,2013,4725,"urge, slap, bag, basmati, supermarket, stephie34, mely and gabe, stayfrea_, julphi, dankmemeuniversity, lordofflames",188,14,15,163395,3.88,25.13,medium-high
+Sleep Paralysis Demon,character,2017,6479,"sleep, paralysis, tiktok",299,49,50,196,7.11,21.67,medium-high
+Sleepy Bruno Mars,image macro,2017,6973,"music, bruno mars, sleeping, reaction, bet, awards, tired",1016,3,4,546475,2.12,6.86,low
+Slide Into Your DMs,catchphrase,2013,294420,"instagram, twitter, direct messaging, crushes, internet dating, smooth, so smooth, online flirting, online dating, rap music term, dm, direct message, pick up lines, funny memes, dating memes",849,50,50,270,7.1,346.78,high
+Smug Wendy's,character,2017,257373,"twitter, anime, charcter, fan art",1078,13,13,142791,3.62,238.75,high
+Sockington,animal,2007,5532,cat,1609,33,35,71629,5.92,3.44,low
+Solitude Experiment,copypasta,2019,2796,"twitter, society, money, trevdon, mikeganthony, glifsey, tenacious_diaz, franzferdinand2",173,6,6,402494,2.5,16.16,medium-low
+Somebody Toucha My Spaghet,catchphrase,2017,166059,"the three bears, animation, remix, spaget, spagett, spaghett, spaghetti, somebody touched my, somebody touched my spaghet, somebody toucha my spaget",819,50,50,26190,7.07,202.76,high
+Someone Who Is Good At The Economy Please Help Me,snowclone,2013,19585,"dril, candles, economy, money",1030,42,50,4129,7.07,19.01,medium-low
+"Sometimes, if you listen very carefully, you can hear my genius.",catchphrase,2017,302,"jeremy clarkson, the grand tour, top gear, beach buggy, namibia, desert",47,3,3,781256,2,6.43,low
+Sonic Forces Persona 5 Costume,exploitable,2017,12754,"persona 5, sonic the hedgehog, furry",945,33,33,72366,5.75,13.5,medium-low
+Sonic vs. Birds of Prey,controversy,2020,6383,"sonic the hedgehog, birds of prey, box office, culture wars, harley quinn, lsmark_, the quartering, dumbsville",47,44,50,65523,7.07,135.81,high
+SparkNotes,pop culture reference,2017,110,"literature, literary, literaryfigures, character, characters, novel, books, literaryfigure, iconic, funny, lines, famouslines, famouscharacter, famousbooks, famous, iconicliterature, literarymemes, popculture, englishclass, intellectual, smart, booklover",40,49,50,300,7.1,2.75,low
+Special Australian Edition,parody,2016,4696,"australia, movie, quotes, twitter",985,33,35,74745,5.92,4.77,low
+Spider-Man: Far From Home IMAX Poster Parodies,photoshop,2019,41125,"marvel, mcu, marvel cinematic universe, spider-man, spider-man: far from home, imax, movies, cinema, film, comic books, superheroes, avengers",294,47,50,69,7.18,139.88,high
+Spider-Man: Homecoming Poster Parodies,photoshop,2017,33289,"spider-man, spiderman, spider-man: homecoming, marvel, photoshop, twitter",1048,49,50,32,7.3,31.76,medium-high
+Spidersona,fan art,2018,18782,"spider-man, into the spider-verse, fursona, peni parker, furries, alter ego, peter parker, fan art, deviantart, tumblr, twitter, hashtag",322,44,50,9603,7.07,58.33,medium-high
+Stan Loona,catchphrase,2016,36265,"loona, k-pop, k pop, music, korea, korean girl group, queer, twitter",573,47,50,74,7.17,63.29,medium-high
+Standing Deer,animal,2020,2777,"deer, twitter, photoshop, solene marion, @jamesk, @chloeevanssj, @tomackermanwx, @10footsamsquantch",33,49,50,8251,7.07,84.15,high
+Starbucks-chan,character,2017,44563,"gashi-gashi, starbucks, stb-chan",1065,34,34,75392,5.83,41.84,medium-high
+STFU I'm Listening to,exploitable,2019,26121,"music, argument, mikeruga, spaghetti.and.memes, babestalive, stfu im listening to",165,49,50,3217,7.07,158.31,high
+Storm Chips,hashtag,2014,6106,"canada, food, potato, weather, junk, storm, dip, halifax, chips, crisps, stormchips, cbc",214,48,50,21228,7.07,28.53,medium-high
+Stuffed Kirby Running,reaction,2019,10352,"thelucbomber, kirby, super smash brothers",299,37,50,28871,7.07,34.62,medium-high
+Sue You Are Shouting At Tea,catchphrase,2020,2456,"english, cuppa, twitter, yorkshire tea, tories, brexit, rishi sunak, gate",40,6,8,242529,2.86,61.4,medium-high
+Swole Jeff Bezos,photoshop,2017,4207,"jeff bezos, photoshop, photoshop battles, amazon, tech, silicon valley",993,7,7,261658,2.68,4.24,low
+Talking About Mouth Wind,copypasta,2019,1392,"why does ha make hot but hoo make cold?, @chirpy89605714, no stupid questions, mouth wind",186,10,10,259899,3.18,7.48,low
+Taught Me It Was Okay To Be Weird,catchphrase,2013,2528,"death, irony, parody, phrase",868,48,50,51363,7.07,2.91,low
+Ted Cruz Zodiac Killer,hoax,2013,550423,"serial killer, murders, conspiracy, hoax, 2016 us presidential election, smearing campaign, ted cruz, zodiac killer",901,39,50,4211,7.07,610.9,high
+TED Talk Gorilla,reaction,2017,17439,"gorilla, zoo, ted talk, parody",1016,6,6,396317,2.5,17.16,medium-low
+Teen's Summer 2017 Bucket List,viral video,2017,16585,"teen, bucket list, summer, party, silly, urban outfitters",995,46,50,31337,7.07,16.67,medium-low
+Tell ISIS,slang,2015,40832,"shitpost, exploitable, image macro, deep fried",949,44,50,1714,7.08,43.03,medium-high
+Terrence Howard's Mayne,image macro,2017,12603,"empire, star wars, hollywood, photoshop, photoshop battle, jedi, the force, star wars culture, star wars memes, terrence howard",848,33,33,78298,5.75,14.86,medium-low
+Tested Positive For,snowclone,2020,12213,"tested, cockbig-19, missing the homies, coronavirus, adam driver, @ladylovato, @quenblackwell, @backyardjulz, ansel elgort, @screensrant, @derekedwardsgb",5,50,50,20,7.44,2442.6,high
+Tested Positive for Missing the Homies,catchphrase,2020,5882,"missing my homies, missin the homies, friends, quarantine, @notyuntoungkim, @youveeuh, @douzmanian, @papi40oz, ronnie ortiz, @amaboutobust",9,50,50,6675,7.07,653.56,high
+Thank You For Being Our Heroes,snowclone,2019,10197,"avengers, twitter, endgame",343,48,50,8921,7.07,29.73,medium-high
+That Was Quite a Show,parody,2019,9461,"rihanna, take a bow, very entertaining, good girl gone bad, g0ld3nretriever, andy_witz, wiisportsmovie, abeloxox, crotchner",167,49,50,1756,7.08,56.65,medium-high
+"The ""Left"" Loves Art",copypasta,2018,15701,"trump, hannity, nfl, #takeaknee, twitter, parody",770,21,23,112160,4.8,20.39,medium-low
+"The ""Louisville Purge"" Hoax",hoax,2014,38754,"film, hoax, horror",1112,16,16,149854,4.01,34.85,medium-high
+The Ducks at the Park are Free,copypasta,2018,2744,"copypasta, twitter, ducks, the elites don't want you to know this, 458 ducks",9,35,35,72290,5.92,304.89,high
+The Getty's Home Art Challenge,social game,2020,969,"art, masterpiece, tweets, comparison, diy, @jenniferpiumar1, claude monet, camille with a small dog, @lindaghatton",7,16,17,146622,4.13,138.43,high
+The Little Mermaid Remake Controversy,controversy,2019,50503,"little mermaid, halle bailey, disney, live action, chloe and halle, clearstarkswift, caitlinmoran, zhyar199, nilaffle, enfant_norino5, bet, matt walsh",271,46,50,9829,7.07,186.36,high
+The National Brexit Impact Photoshops,photoshop,2017,8912,"brexit, scotland, the national, politics, european union",852,43,50,354,7.09,10.46,medium-low
+The Rains of #MAGA guild (in FFXV Mobile),competition,2017,158,"ffxv mobile, brianna wu, maga",984,46,50,3,9.75,0.16,low
+The Razzle Dazzle Bird,image macro,2017,11038,"goose, /r/dankmemes, duck, bird",804,4,4,379357,2.12,13.73,medium-low
+The Worst Trade Deal,image macro,2017,90159,"donald trump, trade deal",1110,50,50,5086,7.07,81.22,high
+These Companies Test On Animals,exploitable,2017,31765,"animal testing, animal rights, four-pane, multi-pane, exploitable",1000,7,7,248010,2.68,31.77,medium-high
+They're Good Dogs Brent,catchphrase,2016,277315,"dogs, twitter",827,48,50,32663,7.07,335.33,high
+Things I Want to Ride,image macro,2012,7522,"sex, innuendo, twitter",993,49,50,6619,7.07,7.58,low
+Things That Disappear When You Need Them,exploitable,2016,9530,"exploitable, image macro, 4-pane, multi-pane",1041,9,9,271668,3.02,9.15,low
+Thirsty Boy,image macro,2016,20197,"tweet, urinal, embarrassing",1133,47,50,1586,7.08,17.83,medium-low
+This Croc Will Die in 100 Days,manga,2019,7052,"crocodile, twitter, webcomic, 4koma, きくちゆうき, yuuki kikuchi",2,4,4,281285,2.12,3526,high
+This Folder Is Empty,exploitable,2015,4645,"computers, windows",875,47,50,885,7.08,5.31,low
+This is for Rachel,hashtag,2018,1996,"tiktok, this is for rachel, angry, voicemail, social media, story, youtube, twitter, disgruntled, jasmine, collins, recording, took me off the schedule",53,47,50,454,7.09,37.66,medium-high
+This Is My Body,copypasta,2017,9408,"twitter, snowclone, austin armacost, body image, body",924,50,50,28,7.33,10.18,medium-low
+This Is My OWN Conclusion,parody,2017,7630,"jen kirkman, bernie sanders, russia, parody, twitter",973,50,50,8401,7.07,7.84,low
+This Is MY Son / #HimToo,copypasta,2018,28955,"himtoo, kavanaugh, men, navy",546,40,50,11776,7.07,53.03,medium-high
+This Is Where I Recorded and Mixed The Album and All The Gear I Used,parody,2017,4999,"four tet, twitter, image, music",891,4,4,307108,2.12,5.61,low
+This Is Why The Terrorists Hate Us ,viral video,2019,23610,"ass beer, paul joseph watson, this is why the terrorists hate us, 48john, thebritishertwi, cody johnson, greysfaher, thesocietydude",167,31,34,77770,5.83,141.38,high
+Time Is A Man Made Concept,catchphrase,2018,10227,"yoko ono, time, get out of jail free card",767,50,50,31535,7.07,13.33,medium-low
+"Tomi Lahren's ""Food for Thought""",image macro,2017,4178,"colin kaepernick, tomi lahren, fox news, conservative, d-day, normandy, world war ii",862,50,50,53,7.21,4.85,low
+Towel,hacker,2015,24917,hacker,1440,48,50,16,7.53,17.3,medium-low
+Travis Scott's Concert Pic,photoshop,2017,30526,"travis scott, concert, fire, photoshop, twitter",848,48,50,336,7.09,36,medium-high
+Tree Struck by Lightning,viral video,2019,2466,"relatable, video, tree, sofain, ecrumrine, feelingfisky, benjaminepark, ziwe",165,49,50,12050,7.07,14.95,medium-low
+Trevor Noah's Tweet Controversy,controversy,2015,27313,"the daily show, comedy central, comedian, twitter, controversy",1834,49,50,3754,7.07,14.89,medium-low
+Trigger the Libs,parody,2017,19472,"maga, alt right, conservative, parody, sarcasm",849,48,50,2878,7.08,22.94,medium-high
+Trump is a Cunt,image macro,2016,438,"janey godley, donald trump",203,44,50,1872,7.08,2.16,low
+Trump Is Coming / #TrumpIsComing,parody,2016,11520,"donald trump, andys coming, video fad, challenge, trumpiscomingchallenge",399,3,3,411139,2,28.87,medium-high
+Trump Scout Badges,hashtag,2017,4464,"boy scouts, donald trump, politics, president, merit badges, twitter",986,4,4,380115,2.12,4.53,low
+"Trust Nobody, Not Even Yourself",exploitable,2014,226141,"4chan, photoshop, twitter, /b/, exploitable, trust nobody, not even yourself, trust",1474,47,50,9953,7.07,153.42,high
+Tucker's Thoughts,exploitable,2017,7310,"tucker carlson, slavery, donald trump, confederate, civil war, robert e. lee, statues, exploitables",964,50,50,737,7.08,7.58,low
+Twice at the Same Time,catchphrase,2017,26475,"invented, same time, history, fake",637,50,50,737,7.08,41.56,medium-high
+Twitter the Comic,webcomic,2012,40833,"twitter, humor, comedy, comics, mike rosenthal",1850,49,50,40,7.25,22.07,medium-high
+Twittergate,controversy,2016,28558,"twitter, controversy",1232,25,50,28057,7.07,23.18,medium-high
+Two Fingers Touching,emoticon,2011,31282,"shy, ask you, uwu, cute, coy, @xxumnmxx, @keeoh, @ag.mcdaniel, @notkozyles, @melisssir, @kazify, @chrissycorsaro",19,50,50,32821,7.07,1646.42,high
+"Upset, Weak, Lonely, Sinned...",snowclone,2018,4466,"twitter, bible, verse, parody, snowclone",679,14,14,149393,3.75,6.58,low
+US Airways Porn Tweet Gaffe,controversy,2014,51640,"controversy, twitter, tweet, scandal, gaffe, public relations, air travel",1112,48,50,799,7.08,46.44,medium-high
+"Vanity Fair Hillary Clinton ""Knitting"" Controversy",controversy,2017,9578,"vanity fair, hillary clinton, politics, sexism, backlash, twitter",827,50,50,67,7.18,11.58,medium-low
+Venmo Me $20,snowclone,2018,3193,"venmo, twitter, $20, dollars, tweet, app, bucks",453,41,50,1732,7.08,7.05,low
+Very Stable Genius,catchphrase,2018,8172,"donald trump, like really smart, mental capacity, 25th amendment, politics, michael wolff, fire and fury",819,50,50,163,7.12,9.98,medium-low
+Vine,application,2013,130398,"twitter, gif, flash, app, short video, 6 seconds, defunct apps",855,46,50,6,8.3,152.51,high
+"VOICE ""Alien"" Hotline Prank",raid,2017,9998,"voice, donald trump, immigration, politics, alien, ufo, pranks, hotline, undocumented immigrants",1075,13,17,124905,4.13,9.3,low
+Walkers Wave,advertisement,2017,373,"advertisement campaign, backfire, submission, selfie, football, uefa champions league, twitter, video, walkers, commercial, gary lineker",1046,49,50,45360,7.07,0.36,low
+Want to Be Dominated / Will Dominate You,exploitable,2016,28572,"anime girls, drawing, want to be dominated, will dominate you, will ask you to be gentle, schoolgirls",32,50,50,1215,7.08,892.88,high
+Washington Redskins Name Controversy,controversy,2014,31349,"sports, controversy, twitter, football, offensive, hashtag, native americans",1702,49,50,1089,7.08,18.42,medium-low
+We Are The Virus,catchphrase,2020,7937,"copypasta, coronavirus, quarantine, social distancing, parody, @thomasschulz, @zenzor1, liopleurodon, @taladorei",9,49,50,26,7.35,881.89,high
+We Rate Dogs,animal,2015,19553,"dogs, twitter, animal",1037,49,50,7821,7.07,18.86,medium-low
+Wee Granny,viral video,2020,1485,"scottish, grandma, wholesome, sweet, cute, bad penny, do what you're told, all be fine, @serkeithofdow, jamtart68, @shabana_can",2,50,50,5114,7.07,742.5,high
+Weeb Simpsons,pop culture reference,2017,13900,"otaku, weeaboo, simpsons, simpsons shitposting",923,6,18,128960,4.25,15.06,medium-low
+Welcome To The Resistance,catchphrase,2016,9571,"resist, donald trump, twitter, sarcastic",924,50,50,209,7.11,10.36,medium-low
+"Welcome To The Shadow Realm, Jimbo",catchphrase,2017,3088,"hugh neutron, yu gi oh, jimmy neutron",32,13,13,190519,3.62,96.5,high
+What in the Hot Crispy Kentucky Fried Fuck?,catchphrase,2018,3053,"colonel sanders, kentucky fried chicken, commercial, fried chicken",188,40,50,40028,7.07,16.24,medium-low
+What R U Going To Gain From It?,exploitable,2016,36831,"cell phone, iphone, catchphrase, exploitable",908,28,29,83966,5.39,40.56,medium-high
+What You See vs. What She Sees,exploitable,2015,150596,"what you see vs. what she sees, what u see vs. what she sees, porn, pornography, oral sex, twitter, sex",1066,50,50,28701,7.07,141.27,high
+When Another Boy Has A Balloon,snowclone,2016,908,"chris christie, twitter, balloon, pointing",894,12,13,137949,3.62,1.02,low
+When You Talk Back To Your Momma and She Snatch You Up,viral video,2017,8579,"black people twitter, reaction, viral video",868,50,50,136,7.13,9.88,medium-low
+Where Are You From?,snowclone,2017,9826,"hometown, twitter, snowclone",678,50,50,10,7.81,14.49,medium-low
+Where Is Gendry?,pop culture reference,2013,10190,"game of thrones, gendry, rowing, stannis, baratheon, twitter, hbo, television",967,5,5,316973,2.31,10.54,medium-low
+Where Is Joe Biden?,conspiracy theory,2020,5452,"joe biden, coronavirus, covid19, conspiracy theory, joe biden is dead, brianha joy gray, peter daou, rikki hiller, #whereisjoe, @assignedcowgal, @feraljokes",13,50,50,138,7.12,419.38,high
+Where TF My Uber Driver Taking Me?,image macro,2017,16926,"uber, lyft, cars, kachow, pixar, photoshop",1009,9,9,102792,3.02,16.78,medium-low
+Whitest Whites,image macro,2018,27961,"laundry, white people, race",674,50,50,10792,7.07,41.49,medium-high
+Who Is This For?,snowclone,2018,5117,"who does make music for, drake, rihanna",634,50,50,1,18.71,8.07,low
+Who Remembers This as a Kid,image macro,2015,23747,"nostalgia, ruined childhood, image macro",1139,48,50,39641,7.07,20.85,medium-low
+Whomst has awoken the ancient one,song,2018,399,"barney, ancient, awoken the ancient",40,4,4,426416,2.12,9.98,medium-low
+Will Now Have Stories,photoshop,2017,32371,"will have stories, social media, facebook, instagram, snapchat",1098,50,50,2044,7.08,29.48,medium-high
+Woke R Kelly,character,2019,980,"twitter, rkelly, woketwitter, funny, drake, therock, glowingeyes, eyes, woke, gayle king, @tevinsagenius, @yolopallison_",40,3,3,348678,2,24.5,medium-high
+"Women, I'll Let You In On A Male Secret",parody,2017,7564,"julian assange, male feminist, men, women",897,3,3,348678,2,8.43,low
+wow balta! Looking good!,catchphrase,2017,317,balta,953,18,20,99775,4.48,0.33,low
+Wow Cool Robot,exploitable,2016,26099,"exploitable, subtext, handdrawn, doodle, gundam",545,47,50,12438,7.07,47.89,medium-high
+Wuhan Shake,viral video,2020,9438,"covid19, coronavirus, china, hand shake, foot, @v_actually, @countryoftexas1, @mikedankson, ufohitchhikeer, oldfeet-19",21,50,50,21248,7.07,449.43,high
+Y'all Consider This A Date?,snowclone,2017,5728,"dating, black twitter, date",1029,49,50,29384,7.07,5.57,low
+Yeah Sex Is Cool But,copypasta,2011,16974,"phrasal template, garlic bread, dmx, twitter, one up, funny meme template, how to make a funny tweet",849,48,50,408,7.09,19.99,medium-low
+"Yes, We Exist",snowclone,2018,39782,"vegan, meat, twitter, snowclone",769,49,50,145,7.12,51.73,medium-high
+You Know I Had to Do It to Em,character,2017,1024918,"lucky luciano, luckyluciano17k, dr. phil m&m",834,49,50,1663,7.08,1228.92,high
+"You Mess With Crabo, You Get a Stabo",photoshop,2017,66257,"snowclone, animals, rhyme",1103,3,4,471894,2.12,60.07,medium-high
+Zoom In,optical illusion,2017,27006,"doggos, dogs, animals, twitter",1126,48,50,127,7.13,23.98,medium-high
